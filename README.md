@@ -1,5 +1,5 @@
-# Human eye fixation predcition model 
-Attached code is human eye fixation predcition model based on deep learning
+# Visual saliency predcition based on deep learning model 
+Attached code is for Visual saliency predcition model based on deep learning
 (Vgg_segmentation): Main code is for model tarining
 readImages function: to read an image for traning the proposed model
 readLabels function : to read labled image 
